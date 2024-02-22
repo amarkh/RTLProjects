@@ -8,6 +8,7 @@ Digital Design Projects:
   - Video 3: Intro to testbenchs
   - Video 4: Creating a sequintial circuit
   - Video 5: Creating a structural architecture
+
 Current Projects:
   - I want to create a 2-input decoder using RTL code.
   - My reasoning for this project is I want to possibly apply this decoder to DC motor encoders for IEEE Hardware Team
