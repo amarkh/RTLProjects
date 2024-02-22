@@ -1,0 +1,174 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/19.1
+Eadd
+Z0 w1708584390
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Mark/Documents/RTLProjects/blackbox/ModelSim
+Z5 8C:/Users/Mark/Documents/RTLProjects/blackbox/vhdl/add.vhd
+Z6 FC:/Users/Mark/Documents/RTLProjects/blackbox/vhdl/add.vhd
+l0
+L5
+Vd<7F`gjaI=^[5Y0n9VCD=3
+!s100 mCCm8f8eMNZfC]R6^QFI21
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1708586925
+!i10b 1
+Z9 !s108 1708586924.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Mark/Documents/RTLProjects/blackbox/vhdl/add.vhd|
+Z11 !s107 C:/Users/Mark/Documents/RTLProjects/blackbox/vhdl/add.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abhv
+R1
+R2
+R3
+DEx4 work 3 add 0 22 d<7F`gjaI=^[5Y0n9VCD=3
+l14
+L12
+V6Nm>nR7mSL3T[I4E?5iSa3
+!s100 `18zV`jdDBf;Ph0M4UGR`0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Emux_2x1
+Z14 w1708586789
+R2
+R3
+R4
+Z15 8C:/Users/Mark/Documents/RTLProjects/blackbox/vhdl/mux_2x1.vhd
+Z16 FC:/Users/Mark/Documents/RTLProjects/blackbox/vhdl/mux_2x1.vhd
+l0
+L5
+VLSBO]b^YUIQ>3QPf=RNUJ1
+!s100 lTdP?T^RK`a;a8>@Y7o6b3
+R7
+32
+R8
+!i10b 1
+Z17 !s108 1708586925.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Mark/Documents/RTLProjects/blackbox/vhdl/mux_2x1.vhd|
+Z19 !s107 C:/Users/Mark/Documents/RTLProjects/blackbox/vhdl/mux_2x1.vhd|
+!i113 1
+R12
+R13
+Abhv
+R2
+R3
+Z20 DEx4 work 7 mux_2x1 0 22 LSBO]b^YUIQ>3QPf=RNUJ1
+l18
+L17
+VLU9K47UD0UiE5cm]AbY833
+!s100 4A`zI3lDhC3n_YA_ihEQ<0
+R7
+32
+R8
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R12
+R13
+Emux_2x1_simple_tb
+Z21 w1708558651
+R1
+R2
+R3
+R4
+Z22 8C:/Users/Mark/Documents/RTLProjects/blackbox/vhdl/mux_2x1_simple_tb.vhd
+Z23 FC:/Users/Mark/Documents/RTLProjects/blackbox/vhdl/mux_2x1_simple_tb.vhd
+l0
+L7
+V@W`GnLe[hQ3EaF?6>eogP2
+!s100 Bz;lo[eUZdDFB8l7=mc191
+R7
+32
+R8
+!i10b 1
+R17
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Mark/Documents/RTLProjects/blackbox/vhdl/mux_2x1_simple_tb.vhd|
+Z25 !s107 C:/Users/Mark/Documents/RTLProjects/blackbox/vhdl/mux_2x1_simple_tb.vhd|
+!i113 1
+R12
+R13
+Adefault_tb
+R20
+R1
+R2
+R3
+DEx4 work 17 mux_2x1_simple_tb 0 22 @W`GnLe[hQ3EaF?6>eogP2
+l20
+L11
+V6=IeCSF4HQDf`;XjQ]idV0
+!s100 T3A7D^eLl_PM]ZP7m2Ng90
+R7
+32
+R8
+!i10b 1
+R17
+R24
+R25
+!i113 1
+R12
+R13
+Emux_2x1_tb
+Z26 w1708558478
+R1
+R2
+R3
+R4
+Z27 8C:/Users/Mark/Documents/RTLProjects/blackbox/vhdl/mux_2x1_tb.vhd
+Z28 FC:/Users/Mark/Documents/RTLProjects/blackbox/vhdl/mux_2x1_tb.vhd
+l0
+L18
+VPUAB<YL>0GHj]BQNCU^Qh2
+!s100 0RCBRij<I5XTZlS7;_R>13
+R7
+32
+R8
+!i10b 1
+R17
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Mark/Documents/RTLProjects/blackbox/vhdl/mux_2x1_tb.vhd|
+Z30 !s107 C:/Users/Mark/Documents/RTLProjects/blackbox/vhdl/mux_2x1_tb.vhd|
+!i113 1
+R12
+R13
+Adefault_tb
+R20
+R1
+R2
+R3
+Z31 DEx4 work 10 mux_2x1_tb 0 22 PUAB<YL>0GHj]BQNCU^Qh2
+l31
+L22
+Z32 V_;IY6^0ViHY4oonF_B_i61
+Z33 !s100 `OzfZJ3jE<@l:l^=MH3k;0
+R7
+32
+R8
+!i10b 1
+R17
+R29
+R30
+!i113 1
+R12
+R13

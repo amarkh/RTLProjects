@@ -1,0 +1,8 @@
+|test
+a => e.IN0
+b => e.IN1
+c => f.IN1
+d => g.IN1
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+
+

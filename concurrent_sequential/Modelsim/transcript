@@ -1,0 +1,20 @@
+# Compile of test_tb.vhd was successful.
+# Compile of test.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.test_tb
+# vsim -gui work.test_tb 
+# Start time: 14:49:17 on Feb 20,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.test_tb(tb_arch)
+# Loading work.test(concurrent)
+add wave -position end  sim:/test_tb/a
+add wave -position end  sim:/test_tb/b
+add wave -position end  sim:/test_tb/c
+add wave -position end  sim:/test_tb/d
+add wave -position end  sim:/test_tb/g
+run -all
+# End time: 11:16:19 on Feb 21,2024, Elapsed time: 20:27:02
+# Errors: 0, Warnings: 0
